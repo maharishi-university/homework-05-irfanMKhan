@@ -1,0 +1,16 @@
+{
+  "name": "homework-05-irfanmkhan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx watch answer-2.tsx"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "typescript": "^5.5.3",
+    "tsx": "^4.16.0"
+  },
+  "dependencies": {}
+}
