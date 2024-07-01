@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "tsx watch answer-2.tsx"
+    "start": "tsx watch answer-3.tsx"
   },
   "author": "",
   "license": "ISC",
